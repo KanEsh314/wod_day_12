@@ -9,7 +9,7 @@ Note: The cipher only encrypts letters; symbols, such as -, remain unencrypted.
 
 The first line contains an integer,k , which is the length of the unencrypted string. 
 The second line contains the unencrypted string, s. 
-The third line contains the integer encryption key, n, which is the number of letters to rotate.
+The third line contains the integer 	encryption key, n, which is the number of letters to rotate.
 
 # Constraints 
  
